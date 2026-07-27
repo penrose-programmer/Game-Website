@@ -31,24 +31,25 @@ to suspenseful text-based adventures like *Do Not Judge*, all the way to [*Moham
 In 2026, we got together to create the *Triple Wave*, a collection of all three of our games at a discounted price. The bundle includes:
 - Cyber Slayer Sufyaan
 - Do Not Judge
-- [Mohammed's Game]
+- Catacombs escape
 
 Our company's mission is to provide the world with enjoyable games. Have fun!
 
 [Photo of Talhah, Krish, and Mohammed]
 
-## Individual Games Page InfoW
+## Individual Games Page Info
 
 ### Krish's Game
 
-**Font:** Orbitron
+**Font:** Orbitron - @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
 
 ### Talhah's Game
 
-**Font:** Pixelify Sans
+**Font:** Pixelify Sans - @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&family=Pixelify+Sans:wght@400..700&display=swap');
 **Card:** Image of phone buzzing in a dark room
 **Description**: Resist, fight, and report. Enter the shoes of a young boy with a social media addiction, as he navigates a treacherous night.
 
 ### Mohammed Game
 
-**Font:**  Micro 5
+**Font:**  Micro 5 - @import url('https://fonts.googleapis.com/css2?family=Micro+5&family=Orbitron:wght@400..900&family=Pixelify+Sans:wght@400..700&display=swap');
+</style>
