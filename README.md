@@ -3,4 +3,4 @@
 **Group Members**
 - Talhah Ahmed
 - Krish Patel
-- Muhammed Ahmed
+- Muhammad Ahmed

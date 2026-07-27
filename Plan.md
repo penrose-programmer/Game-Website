@@ -42,7 +42,8 @@ Our company's mission is to provide the world with enjoyable games. Have fun!
 ### Krish's Game
 
 **Font:** Orbitron - @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
-
+***Card:*** Image of a rocket taking off Earth.
+**Description:** Fighting aliens and after every wave, you have to answer a cyber security question.
 ### Talhah's Game
 
 **Font:** Pixelify Sans - @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&family=Pixelify+Sans:wght@400..700&display=swap');
@@ -52,4 +53,6 @@ Our company's mission is to provide the world with enjoyable games. Have fun!
 ### Mohammed Game
 
 **Font:**  Micro 5 - @import url('https://fonts.googleapis.com/css2?family=Micro+5&family=Orbitron:wght@400..900&family=Pixelify+Sans:wght@400..700&display=swap');
+***Card:*** 
+**Description:** Escape the catacombs, exploring and investigating each and evry object within the room. Showcase your investigative and cyber security skills in order to sort out the hints.
 </style>
