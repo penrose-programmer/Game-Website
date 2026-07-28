@@ -55,4 +55,3 @@ Our company's mission is to provide the world with enjoyable games. Have fun!
 **Font:**  Micro 5 - @import url('https://fonts.googleapis.com/css2?family=Micro+5&family=Orbitron:wght@400..900&family=Pixelify+Sans:wght@400..700&display=swap');
 ***Card:*** 
 **Description:** Escape the catacombs, exploring and investigating each and evry object within the room. Showcase your investigative and cyber security skills in order to sort out the hints.
-</style>
