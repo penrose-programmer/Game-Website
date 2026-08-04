@@ -43,15 +43,15 @@ Our company's mission is to provide the world with enjoyable games. Have fun!
 
 **Font:** Orbitron - @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
 ***Card:*** Image of a rocket taking off Earth.
-**Description:** Fighting aliens and after every wave, you have to answer a cyber security question.
+**Description:** Fighting aliens and while learning by doing cyber security questions. Engage in fights to save the world!
 ### Talhah's Game
 
-**Font:** Pixelify Sans - @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&family=Pixelify+Sans:wght@400..700&display=swap');
+**Font:** Black Ops One - @import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Micro+5&family=Orbitron:wght@400..900&family=Pixelify+Sans:wght@400..700&display=swap');
 **Card:** Image of phone buzzing in a dark room
 **Description**: Resist, fight, and report. Enter the shoes of a young boy with a social media addiction, as he navigates a treacherous night.
 
 ### Mohammed Game
 
-**Font:**  Micro 5 - @import url('https://fonts.googleapis.com/css2?family=Micro+5&family=Orbitron:wght@400..900&family=Pixelify+Sans:wght@400..700&display=swap');
+**Font:**  Oswald - @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
 ***Card:*** 
-**Description:** Escape the catacombs, exploring and investigating each and evry object within the room. Showcase your investigative and cyber security skills in order to sort out the hints.
+**Description:** Escape the catcombs, investigating objects to find hints, all while using cyber safety skills.
