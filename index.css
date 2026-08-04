@@ -93,9 +93,28 @@ a {
     display: flex;
     flex-flow: row nowrap;
     justify-content: center;
-    gap: 256px;
-    
-    width: 100dvw;
+    gap: 128px;
+
+    padding: 0 128px;
+}
+
+.homepage-game-card {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    text-align: center;
+
+    border: 4px solid violet;
+    background-color: rgb(50, 0, 50);
+    padding: 30px;
+
+    gap: 12px;
+}
+
+.homepage-game-image {
+    width: 100%;
+    border: 4px solid violet;
+    /* box-shadow: 10px 10px 0px violet; */
 }
 
 .monospace-font {
